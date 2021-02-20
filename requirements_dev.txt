@@ -1,0 +1,13 @@
+bump2version
+wheel
+setuptools
+argh
+watchdog
+flake8
+tox
+coverage
+Sphinx
+sphinx_rtd_theme
+twine
+
+
